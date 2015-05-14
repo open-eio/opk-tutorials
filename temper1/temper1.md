@@ -78,3 +78,5 @@ Note: will take up to several minutes for the initialization process to complete
 When the initialization process is over, the wifi dongle should be flashing consistently.  
 
 When you believe the initialization procedure has finished, navigate to the 'Public URL' for the stream you've created.  You should see sensor values start to appear every 10 seconds or so.
+
+<img src="./success.png">
