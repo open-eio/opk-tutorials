@@ -1,3 +1,6 @@
+
+[TOC]
+
 # Getting Started with OPK on a Raspberry Pi
 
 ## Overview
@@ -8,21 +11,21 @@
 4. Setting up a Phant account
 5. Troubleshooting a
 
-## Required Hardware
+## 1. Required Hardware
 
 - Raspberry Pi (link to sources)
 - Wifi dongle (link to sources)
 - SD card (link to sources)
 - Sensor (for this tutorial, temper1 ... but soon, 1-wire)
 
-## Preparing an SD card
+## 2. Preparing an SD card
 
 Adafruit tutorial for Windows:
 
-## Preparing
+## 3. Preparing
 This thing. This other thing.
 
-## TEst test
+## 4. TEst test
 
 This other things. and.  
 
