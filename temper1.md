@@ -1,6 +1,3 @@
-
-[TOC]
-
 # Getting Started with OPK on a Raspberry Pi
 
 ## Overview
