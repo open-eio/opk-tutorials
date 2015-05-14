@@ -30,7 +30,6 @@ sudo -i
 df -h
 umount /dev/X <-- where X is /mmcblk.. or /sdX
 zcat 20150512-pirateship.img.gz > /dev/mmcblk0 <-- or whatever above volume was
-
 ```
 
 
