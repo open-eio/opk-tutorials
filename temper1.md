@@ -1,15 +1,30 @@
----
-title: "Untitled"
-output: pdf_document
----
+# Getting Started with OPK on a Raspberry Pi
 
-# Test
+## Overview
 
-This thing.
+1. Required hardware
+2. Preparing an SD card
+3. Preparing a custom autorun.sh script
+4. Setting up a Phant account
+5. Troubleshooting a
+
+## Required Hardware
+
+- Raspberry Pi (link to sources)
+- Wifi dongle (link to sources)
+- SD card (link to sources)
+- Sensor (for this tutorial, temper1 ... but soon, 1-wire)
+
+## Preparing an SD card
+
+Adafruit tutorial for Windows:
+
+## Preparing
+This thing. This other thing.
 
 ## TEst test
 
-This other things. 
+This other things. and.  
 
 ```
 a=3
