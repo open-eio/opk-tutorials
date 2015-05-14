@@ -23,6 +23,16 @@ Then follow your favorite procedure for burning the image to an SD card.
 - Adafruit tutorial for Windows: https://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi/making-an-sd-card-using-a-windows-vista-slash-7
 - Adafruit tutorial for Mac: https://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi/making-an-sd-card-using-a-mac
 - Raspberry Pi tutorial
+- Linux tutorial
+
+```
+sudo -i
+df -h
+umount /dev/X <-- where X is /mmcblk.. or /sdX
+zcat 20150512-pirateship.img.gz > /dev/mmcblk0 <-- or whatever above volume was
+
+```
+
 
 ## Setting up the remote database (phant)
 
