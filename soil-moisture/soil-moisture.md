@@ -128,17 +128,17 @@ Navigate to: https://data.sparkfun.com/streams/make
 
 You'll see a page like this:
 
-<img src="./sparkfun.png">
+<img width=300 src="./sparkfun.png">
 
 Fill in all the required information.  
 
 In particular, you will need to name the 'fields' you're interested -- i.e., the parameters you're interested in measuring.  For this tutorial, you should name only one field, and call it 'temp', like this:
 
-<img src="./fields2.png">
+<img width=300 src="./fields2.png">
 
 When you're done, you'll be shown a page with information about your stream:
 
-<img src="./phant1.png">
+<img width=300 src="./phant1.png">
 
 Make note of the public and private keys; but also download the 'keys' file locally to your computer by clicking on 'Download your keys as a JSON file'.
 
@@ -150,7 +150,7 @@ For this tutorial, we'll be using a pre-existing recipe, located here: https://g
 
 Click on the 'raw' button and copy the text into a file on your home computer that you rename 'autorun.sh':
 
-<img src="./gist-raw.png">
+<img width=300 src="./gist-raw.png">
 
 ## Finalizing the SD card
 
@@ -174,4 +174,4 @@ When the initialization process is over, the wifi dongle should be flashing cons
 
 When you believe the initialization procedure has finished, navigate to the 'Public URL' for the stream you've created.  You should see sensor values start to appear every 10 seconds or so.
 
-<img src="./success.png">
+<img width=300 src="./success.png">
