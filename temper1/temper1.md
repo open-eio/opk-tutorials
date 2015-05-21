@@ -9,7 +9,8 @@
 
 ## Preparing an SD card
 
-First, download the latest OPK SD card image here:
+First, download the latest OPK SD card image here: http://pirate.sh/latest-pirateship.img.gz
+unzip it if necessary
 
 Then, follow your favorite procedure for 'burning' the image to an SD card:  
 - Adafruit tutorial for Windows: https://learn.adafruit.com/adafruit-raspberry-pi-lesson-1-preparing-and-sd-card-for-your-raspberry-pi/making-an-sd-card-using-a-windows-vista-slash-7
