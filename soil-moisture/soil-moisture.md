@@ -39,7 +39,7 @@ The soil probe we'll be using is the one provided by Adafruit, here:
 
 https://www.adafruit.com/products/1298
 
-<img src="./soilProbe.jpg">
+<img width=300 src="./soilProbe.jpg">
 
 ### Programming the Moteino
 
@@ -63,17 +63,17 @@ Adafruit provides details on hooking up the sensor to an Arduino, and we'll be f
 
 The connection will end up looking something like this:
 
-<img src="soilMote.jpg">
+<img width=300 src="soilMote.jpg">
 
 You'll want to add a 3.7V battery, such as the one provided by Adafruit:
 
 https://www.adafruit.com/product/258
 
-<img src="./lipo.jpg">
+<img width=300 src="./lipo.jpg">
 
 You'll also want to add a lipo charger to the circuit -- both to recharge the battery, and as a nice way of connecting to the Moteino:
 
-<img src="./lipoCharger.jpg">
+<img width=300 src="./lipoCharger.jpg">
 
 Adafruit sells them here:  https://www.adafruit.com/product/1304
 
@@ -90,13 +90,13 @@ You'll then plug the Moteino + an FTDI cable directly into the Raspberry Pi USB 
 
 Add the wifi dongle (such as the one provided by Adafruit, here: https://www.adafruit.com/product/1030)
 
-<img src="./wifi.jpg">
+<img width=300 src="./wifi.jpg">
 
 Plug this wifi dongle directly into a Raspberry Pi USB port.
 
 In the end, you'll have something like this on the RPi end of things:
 
-<img src="RPi.jpg">
+<img width=300 src="RPi.jpg">
 
 
 ## Preparing an SD card
@@ -164,6 +164,7 @@ Mount your SD card, and navigate to the 'boot' partition.
 Now, with the Raspberry Pi off,
 
 - plug the SD card into the Raspberry Pi;
+- connect a temper1 sensor into a USB port;
 
 Now, power up the Raspberry Pi!
 
